@@ -1,6 +1,6 @@
 # Site settings
 title: Pattislan Blog
-SEOTitle: 梦中的苗圃 | Pattislan Blog
+SEOTitle: 梦中的苗圃 | Dream Nersury
 header-img: img/home-bg.jpg
 email: 1553436239@qq.com
 description: "「不管天空、大地有多么灰暗，只要你的心一直像太阳一样，发出金色的、温暖的光，那就一直都会有希望。」"
@@ -91,12 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "", href: "" },
   ]
